@@ -9,8 +9,8 @@
     <!-- Plugin Information -->
     <name>ElasticBungee</name>
     <description>This is just an example plugin</description>
-    <version>0.0.3</version>
-    <url>https://twitter.com/sammwy</url>
+    <version>0.0.4</version>
+    <url>https://github.com/HappyRogelio7/ElasticBungee1</url>
 
     <properties>
         <author>Sammwy</author>
@@ -31,7 +31,7 @@
         <dependency>
             <groupId>net.md-5</groupId>
             <artifactId>bungeecord-api</artifactId>
-            <version>1.17-R0.1-SNAPSHOT</version>
+            <version>1.19-R0.1-SNAPSHOT</version>
             <type>jar</type>
             <scope>provided</scope>
         </dependency>
