@@ -3,6 +3,8 @@
 # ElasticBungee
 Synchronization of data between BungeeCord instances using Redis as data storage and as a message broker.
 
+# Recomendate using update version by me: [Click here!](https://github.com/HappyRogelio7/InfinityElasticBungee)
+
 ### How does it work?
 The plugin uses a Redis function that allows you to send messages and data in real time. This allows you to install the plugin on several BungeeCord instances, connect them to the same Redis server and have them synchronize their data.
 
